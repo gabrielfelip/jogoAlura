@@ -27,10 +27,6 @@ Durante o desenvolvimento desse projeto, foi possível praticar:
 - Geração de números aleatórios
 - Uso de bibliotecas externas para síntese de voz
 
-## 📷 Imagem do Projeto
-
-![Screenshot do Jogo](./img/ia.png)
-
 ## 📁 Como executar
 
 1. Clone o repositório:
